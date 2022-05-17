@@ -11,7 +11,7 @@ Skills: HTML / CSS / SCSS / BOOTSTRAP / JS  / REACT
 - 🌱 I’m currently learning Node JS 
 - 💬 Ask me about Web Development 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imtiajul37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/imtiajul37)
+
 
   
 
@@ -20,3 +20,4 @@ Skills: HTML / CSS / SCSS / BOOTSTRAP / JS  / REACT
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiajul37&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/imtiajul37)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imtiajul37)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/imtiajul37)
